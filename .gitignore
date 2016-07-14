@@ -1,0 +1,11 @@
+/build
+/.gradle/
+/.idea/
+/laboratory/build/
+/gradle.properties
+/gradlew
+/easydaogenerator/build/
+/laboratory/proguard-rules.pro
+/local.properties
+/gradle/
+/gradlew.bat
